@@ -16,14 +16,14 @@ function school_projects_btn() {
     location.href = "https://nouhidev.github.io/school-projects/";
 }
 
-function rblx_btn() {
+function sa_btn() {
     location.href = "https://nouhidev.github.io/roblox-horrorlist/";
 }
 
-function gfx_btn() {
-    location.href = "https://www.behance.net/wolfgfx";
+function mg_btn() {
+    location.href = "https://nouhi.dev/marble-graphs/";
 }
 
-function itch_btn() {
+function es_btn() {
     location.href = "https://nouhidev.github.io/games/";
 }
