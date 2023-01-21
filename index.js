@@ -17,7 +17,7 @@ function school_projects_btn() {
 }
 
 function sa_btn() {
-    location.href = "https://nouhidev.github.io/roblox-horrorlist/";
+    location.href = "https://nouhidev.github.io/school-projects/";
 }
 
 function mg_btn() {
@@ -25,5 +25,5 @@ function mg_btn() {
 }
 
 function es_btn() {
-    location.href = "https://nouhidev.github.io/games/";
+    location.href = "https://nouhidev.github.io/school-projects/";
 }
