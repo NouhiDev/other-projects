@@ -492,13 +492,13 @@
   background-color: #e3a675;
 }
 
-.rblx {
-  border-color: rgb(179, 179, 179);
-  color: rgb(179, 179, 179);
+.sa {
+  border-color: rgb(219, 154, 88);
+  color: rgb(219, 154, 88);
   font-family: "Anonymous Pro", monospace;
 }
 
-.rblx-btn {
+.sa-btn {
   margin-top: 0.2pc;
   margin-right: 2.5pc;
   margin-bottom: 10px;
@@ -509,12 +509,12 @@
   cursor: pointer;
   font-size: 15pt;
   padding: 20px;
-  color: rgb(179, 179, 179);
+  color: rgb(219, 154, 88);
   background-color: var(--main-bg-color);
   border-image: none;
   border-top-style: solid;
   border-right-style: solid;
-  border-top-color: rgb(179, 179, 179);
+  border-top-color: rgb(219, 154, 88);
   border-bottom-style: solid;
   border-left-style: solid;
   border-top-width: 0.020833333in;
@@ -523,29 +523,29 @@
   border-left-width: 0.020833333in;
   height: 0in;
   max-width: 200px;
-  border-right-color: rgb(179, 179, 179);
+  border-right-color: rgb(219, 154, 88);
   transition: transform 0.2s;
   text-align: center;
-  border-bottom-color: rgb(179, 179, 179);
-  border-left-color: rgb(179, 179, 179);
+  border-bottom-color: rgb(219, 154, 88);
+  border-left-color: rgb(219, 154, 88);
   justify-content: flex-end;
   display: flex;
   position: absolute;
 }
 
-.rblx-btn:hover {
+.sa-btn:hover {
   transform: scale(1.1);
   color: var(--main-bg-color);
-  background-color: rgb(179, 179, 179);
+  background-color: rgb(219, 154, 88);
 }
 
-.itch {
+.es {
   border-color: var(--primary-color);
   color: var(--primary-color);
   font-family: "Anonymous Pro", monospace;
 }
 
-.itch-btn {
+.es-btn {
   margin-top: 0.2pc;
   margin-right: 2.5pc;
   margin-bottom: 10px;
@@ -580,19 +580,19 @@
   position: absolute;
 }
 
-.itch-btn:hover {
+.es-btn:hover {
   transform: scale(1.1);
   color: var(--main-bg-color);
   background-color: var(--primary-color);
 }
 
-.gfx {
-  border-color: rgb(92, 163, 255);
-  color: rgb(92, 163, 255);
+.mg {
+  border-color: rgb(92, 255, 187);
+  color: rgb(92, 255, 187);
   font-family: "Anonymous Pro", monospace;
 }
 
-.gfx-btn {
+.mg-btn {
   margin-top: 0.2pc;
   margin-right: 2.5pc;
   margin-bottom: 10px;
@@ -603,12 +603,12 @@
   cursor: pointer;
   font-size: 15pt;
   padding: 20px;
-  color: rgb(92, 163, 255);
+  color: rgb(92, 255, 187);
   background-color: var(--main-bg-color);
   border-image: none;
   border-top-style: solid;
   border-right-style: solid;
-  border-top-color: rgb(92, 163, 255);
+  border-top-color: rgb(92, 255, 187);
   border-bottom-style: solid;
   border-left-style: solid;
   border-top-width: 0.020833333in;
@@ -617,18 +617,18 @@
   border-left-width: 0.020833333in;
   height: 0in;
   max-width: 200px;
-  border-right-color: rgb(92, 163, 255);
+  border-right-color: rgb(92, 255, 187);
   transition: transform 0.2s;
   text-align: center;
-  border-bottom-color: rgb(92, 163, 255);
-  border-left-color: rgb(92, 163, 255);
+  border-bottom-color: rgb(92, 255, 187);
+  border-left-color: rgb(92, 255, 187);
   justify-content: flex-end;
   display: flex;
   position: absolute;
 }
 
-.gfx-btn:hover {
+.mg-btn:hover {
   transform: scale(1.1);
   color: var(--main-bg-color);
-  background-color: rgb(92, 163, 255);
+  background-color: rgb(92, 255, 187);
 }
