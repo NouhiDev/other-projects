@@ -25,5 +25,5 @@ function mg_btn() {
 }
 
 function es_btn() {
-    location.href = "https://nouhidev.github.io/school-projects/";
+    location.href = "https://nouhidev.github.io/epidemic-simulation/";
 }
