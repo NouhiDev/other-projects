@@ -17,7 +17,7 @@ function school_projects_btn() {
 }
 
 function sa_btn() {
-    location.href = "https://nouhidev.github.io/school-projects/";
+    location.href = "https://nouhidev.github.io/seismic-architect/";
 }
 
 function mg_btn() {
