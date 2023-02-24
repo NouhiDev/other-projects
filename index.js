@@ -35,3 +35,7 @@ function mg_btn() {
 function es_btn() {
   location.href = "https://nouhidev.github.io/epidemic-simulation/";
 }
+
+function dv_btn() {
+  location.href = "https://nouhidev.github.io/davinci/";
+}
