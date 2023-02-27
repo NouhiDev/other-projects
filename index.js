@@ -39,3 +39,7 @@ function es_btn() {
 function dv_btn() {
   location.href = "https://nouhidev.github.io/davinci/";
 }
+
+function rh_btn() {
+  location.href = "https://nouhidev.github.io/roblox-horrorlist/";
+}
