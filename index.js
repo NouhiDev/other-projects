@@ -43,3 +43,7 @@ function dv_btn() {
 function rh_btn() {
   location.href = "https://nouhidev.github.io/roblox-horrorlist/";
 }
+
+function lw_btn() {
+  location.href = "https://nouhidev.github.io/lidar-web/";
+}
