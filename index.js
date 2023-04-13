@@ -25,7 +25,7 @@ function back_btn() {
 }
 
 function sa_btn() {
-  location.href = "https://nouhidev.github.io/seismic-architect/";
+  location.href = "https://nouhidev.github.io/laser-labyrinth/";
 }
 
 function mg_btn() {
