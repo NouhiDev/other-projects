@@ -37,7 +37,7 @@ function es_btn() {
 }
 
 function dv_btn() {
-  location.href = "https://nouhidev.github.io/davinci/";
+  location.href = "https://nouhidev.github.io/maturaprep/";
 }
 
 function rh_btn() {
