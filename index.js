@@ -49,5 +49,5 @@ function lw_btn() {
 }
 
 function tbg_btn() {
-  location.href = "https://nouhidev.github.io/tiled-based-generation/";
+  location.href = "https://nouhidev.github.io/tiled-based-generator/";
 }
