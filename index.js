@@ -47,3 +47,7 @@ function rh_btn() {
 function lw_btn() {
   location.href = "https://nouhidev.github.io/lidar-web/";
 }
+
+function tbg_btn() {
+  location.href = "https://nouhidev.github.io/tiled-based-generation/";
+}
