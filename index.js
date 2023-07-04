@@ -51,3 +51,7 @@ function lw_btn() {
 function tbg_btn() {
   location.href = "https://nouhidev.github.io/tiled-based-generator/";
 }
+
+function dg_btn() {
+  location.href = "https://nouhidev.github.io/dungeon-generator/";
+}
