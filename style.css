@@ -474,6 +474,10 @@ span {
   height: 20px;
 }
 
+.card-small-image-2 {
+  height: 20px;
+}
+
 .card-info-wrapper {
   align-items: center;
   display: flex;
